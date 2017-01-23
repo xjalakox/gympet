@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.domin.gympet">
+    package="app.gympet">
 
     <application
         android:allowBackup="true"
